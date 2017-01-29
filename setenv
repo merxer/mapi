@@ -1,0 +1,3 @@
+export GOPATH=/Users/Tajlando/code/mapi
+export GOBIN=/Users/Tajlando/code/mapi/bin
+export GOROOT=/usr/local/go
