@@ -4,3 +4,4 @@ gopkg.in/
 *.dump
 pkg/
 bin/
+sourcegraph.com/
